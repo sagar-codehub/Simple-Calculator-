@@ -10,6 +10,7 @@ This is my first project on GitHub.
 
 ## Language Used
 - Python
+- Java 
 
 ## How to Run
 Run the file using:
