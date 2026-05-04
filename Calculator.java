@@ -1,3 +1,5 @@
+//  this code is written in java and is a simple calculator that can perform basic arithmetic operations like addition, subtraction, multiplication, and division. The user can choose the operation they want to perform and input the numbers. The result is then displayed on the screen. The calculator also handles invalid inputs and division by zero gracefully.
+
 import java.util.Scanner;
 
 public class Calculator {
